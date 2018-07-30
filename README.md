@@ -13,7 +13,5 @@
   6. 在测试集合中评估最佳模型[coming soon]
   7. 解释模型结果
   8. 得出结论
-  
-原作者GitHub：https://github.com/WillKoehrsen/machine-learning-project-walkthrough
 
-[机器学习项目相关网站推荐](https://github.com/Bugdragon/energy_star_score/blob/master/WEBSITE.md)
+**[机器学习项目相关网站推荐]**(https://github.com/Bugdragon/energy_star_score/blob/master/WEBSITE.md)

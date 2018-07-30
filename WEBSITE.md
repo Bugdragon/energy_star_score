@@ -2,6 +2,8 @@
 
 * 参考书籍：[Hands-On Machine Learning with Scikit-Learn and Tensorflow](http://shop.oreilly.com/product/0636920052289.do)
 
+* [The 7 Steps of Machine Learning](https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e)
+
 * Pandas：http://pandas.pydata.org/pandas-docs/stable/
 
 * 数据源：
@@ -16,7 +18,7 @@
     + [EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     + [What are outliers in the data?](https://www.itl.nist.gov/div898/handbook/prc/section1/prc16.htm)
     + [Extreme Outliers](https://people.richland.edu/james/lecture/m170/ch03-pos.html)
-    + [Density Plot](https://datavizcatalogue.com/methods/density_plot.html), +
+    + [Density Plot](https://datavizcatalogue.com/methods/density_plot.html)
     + [Exploratory Data Analysis: Kernel Density Estimation – Conceptual Foundations](https://chemicalstatistician.wordpress.com/2013/06/09/exploratory-data-analysis-kernel-density-estimation-in-r-on-ozone-pollution-data-in-new-york-and-ozonopolis/)
     + [Statistics How To](http://www.statisticshowto.com/probability-and-statistics/correlation-coefficient-formula/)
     
@@ -26,7 +28,7 @@
     + [Feature Engineering: Secret to data science success](https://www.featurelabs.com/blog/secret-to-data-science-success/)
     + [sklearn.feature_selection.VarianceThreshold](http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.VarianceThreshold.html)
     + [Issue of Multicollinearity in Python](https://statinfer.com/204-1-9-issue-of-multicollinearity-in-python/)
-    + [Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity), 
+    + [Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity)
     + [Multicollinearity and collinearity (in multiple regression) - a tutorial](http://psychologicalstatistics.blogspot.com/2013/11/multicollinearity-and-collinearity-in.html)
     + [Dealing with multicollinearity
 ](https://www.kaggle.com/robertoruiz/dealing-with-multicollinearity/code)
@@ -36,4 +38,7 @@
     + [CS229 Lecture notes
 Andrew Ng:Independent Components
 Analysis](http://cs229.stanford.edu/notes/cs229-notes11.pdf)
-    + [Feature Selection For Machine Learning in Python] (https://machinelearningmastery.com/feature-selection-machine-learning-python/)
+    + [Feature Selection For Machine Learning in Python](https://machinelearningmastery.com/feature-selection-machine-learning-python/)
+    + [Important Model Evaluation Error Metrics Everyone should know](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
+    + [Single number evaluation metric](https://www.coursera.org/lecture/machine-learning-projects/single-number-evaluation-metric-wIKkC)
+    + [How to compare regression models](https://people.duke.edu/~rnau/compare.htm)
