@@ -1,10 +1,10 @@
 # Python机器学习项目实战
 ## 能源之星分数预测
 
-目标：
+**目标**：
   使用能源数据建立一个模型，来预测建筑物的能源之星分数，并解释结果以找出影响评分的因素。
 
-流程：
+**流程**：
   1. 数据清理和格式化☑
   2. 探索性数据分析☑
   3. 特征工程和特征选择☑
@@ -13,3 +13,7 @@
   6. 在测试集合中评估最佳模型[coming soon]
   7. 解释模型结果
   8. 得出结论
+  
+原作者GitHub：https://github.com/WillKoehrsen/machine-learning-project-walkthrough
+
+[机器学习项目相关网站推荐](https://github.com/Bugdragon/energy_star_score/blob/master/WEBSITE.md)
