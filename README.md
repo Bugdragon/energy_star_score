@@ -12,7 +12,7 @@
   4. 在性能指标上比较几种机器学习模型☑
   5. 对最佳模型执行超参数调整☑
   6. 在测试集合中评估最佳模型☑
-  7. 解释模型结果[coming soon]
-  8. 得出结论[coming soon]
+  7. 解释模型结果☑
+  8. 得出结论☑
 
 [**机器学习项目相关网站推荐**](https://github.com/Bugdragon/energy_star_score/blob/master/WEBSITE.md)
